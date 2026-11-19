@@ -12,9 +12,7 @@
 </p>
 
 **Human–AI collaboration in software engineering.** I study how increasingly autonomous AI reshapes the way
-people build, understand, and control software.
-
-As agents take over more of the work, I examine how developers' attention, understanding, and reliance on AI
+people build, understand, and control software. As agents take over more of the work, I examine how developers' attention, understanding, and reliance on AI
 shift, and how these changes affect our ability to critically assess the software AI produces.
 
 ## Research
